@@ -37,3 +37,10 @@
     max-width: 200px;
     padding: 10px;
 }
+
+.progress{
+    margin-top: 15px;
+}
+.barras{
+height: 40vh
+}
