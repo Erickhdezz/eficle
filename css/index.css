@@ -1,101 +1,103 @@
 .image1 {
-    display: table;
-    width: 100%;
-    height: 100vh;
-    background-image: url(../img/background/notebook.jpg);
-    background-position: center;
+  display: table;
+  width: 100%;
+  height: 100vh;
+  background-image: url(../img/background/notebook.jpg);
+  background-position: center;
 }
 
 .navbar-light {
-    background-color: white;
-    border: none;
+  background-color: white;
+  border: none;
 }
 
 .navbar-brand {
-    display: block;
-    border: none;
+  display: block;
+  border: none;
 }
 
 .logo-navbar {
-    max-height: 45px;
-    padding: 0px;
+  max-height: 45px;
+  padding: 0px;
 }
 
-.image1-p1,
-.image1-p2 {
-    display: table-cell;
-    width: 100vh;
-    height: 50vh;
-    border: white 2px inherit;
-    text-align: center;
-    vertical-align: middle;
-    color: white;
-    text-shadow: 1px 1px 1px black;
+.image1-p1, .image1-p2 {
+  display: table-cell;
+  width: 100vh;
+  height: 50vh;
+  border: white 2px inherit;
+  text-align: center;
+  vertical-align: middle;
+  color: white;
+  text-shadow: 1px 1px 1px black;
+}
+
+.card{
+  border: none;
 }
 
 .card-img-top {
-    max-height: 200px;
-    max-width: 200px;
-    padding: 10px;
+  max-height: 200px;
+  max-width: 200px;
+  padding: 10px;
 }
 
 .progress {
-    margin-top: 15px;
+  margin-top: 15px;
 }
 
 .cita {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 5vh;
-    padding-bottom: 50px;
-
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 70px;
+  padding-top: 20px;
 }
 
 .quote {
-    height: 30vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    vertical-align: middle;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  vertical-align: middle;
+  padding-bottom: 20px;
+  padding-top: 70px;
 }
 
 .fa-quote-left {
-    font-size: 5rem;
-    color: gray;
+  font-size: 5rem;
+  color: gray;
 }
 
 .titulo-planes {
-    padding-top: 15px;
-    padding-bottom: 15px;
-    font-size: 3em;
-    text-align: center;
-}
-
-.benefits {
-    padding-top: 10px;
-    padding-bottom: 10px;
-    height: auto;
-    background-color: var(--azul);
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-size: 3em;
+  text-align: center;
 }
 
 .img-plan {
-    max-width: 150px;
+  max-width: 120px;
+  padding: 15px;
 }
 
-.plan {
-    text-align: center;
-    color: black;
+.planes {
+  color: white;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-left: solid 1px white;
+  background-color: var(--azul);
 }
 
-.benefit {
-    font-family: "Arimo";
-    color: white;
-    padding: 10px;
-    height: 8vh;
+.planes {
+  text-align: center;
 }
 
-.nom-plan {
-    font-family: "Anton";
-    color: #55585A;
+.title {
+  padding: 10px;
+  font-family: "Anton";
+  color: #55585A;
+}
+
+.smedia-icon{
+  font-size: 1.4rem;
 }
