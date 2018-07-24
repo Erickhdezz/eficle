@@ -1,4 +1,13 @@
 @import url("general.css");
+@import url('https://fonts.googleapis.com/css?family=Anton|Archivo+Narrow|Arimo');
+/*
+ANTON
+ARIMO
+ARCHIVO NARROW
+*/
+:root{
+    --azul:#2AACE3;
+}
 *{
   margin: 0px;
   padding: 0px;

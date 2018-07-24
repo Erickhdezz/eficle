@@ -43,15 +43,59 @@
     margin-top: 15px;
 }
 
-.caja-cita>.row{
-    display: table;
-    max-width: 100vh;
-    max-height: 30vh;
+.cita {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5vh;
+    padding-bottom: 50px;
+
 }
 
-.cita{
-    display: table-cell;
-    width: 100vh;
+.quote {
     height: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     vertical-align: middle;
+}
+
+.fa-quote-left {
+    font-size: 5rem;
+    color: gray;
+}
+
+.titulo-planes {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 3em;
+    text-align: center;
+}
+
+.benefits {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: auto;
+    background-color: var(--azul);
+}
+
+.img-plan {
+    max-width: 150px;
+}
+
+.plan {
+    text-align: center;
+    color: black;
+}
+
+.benefit {
+    font-family: "Arimo";
+    color: white;
+    padding: 10px;
+    height: 8vh;
+}
+
+.nom-plan {
+    font-family: "Anton";
+    color: #55585A;
 }
