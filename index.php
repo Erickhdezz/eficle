@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <META HTTP-EQUIV=" CACHE-CONTROL " CONTENT="NO-CACHE">
+  <meta name="description" content="La plataforma de Marketing de Influencias más importante de México">
+  <link rel="stylesheet " href="https://use.fontawesome.com/releases/v5.1.1/css/all.css" integrity="sha384-O8whS3fhG2OnA5Kas0Y9l3cfpmYjapjI0E4theH4iuMD+pLhbf6JI0jIMfYcK3yZ" crossorigin="anonymous">
+  <link rel="stylesheet " href="css/bootstrap.css">
+  <link rel="stylesheet " href="css/index.css">
+  <link rel="stylesheet " href="css/style.css">
+
+  <title>Eficl&eacute;</title>
+</head>
+
+<body>
+  <nav class="navbar fixed-top navbar-expand-lg navbar-light">
+    <!-- LOGOTIPO DE LA PAGINA-->
+    <a class="navbar-brand" href="#"><img class="logo-navbar" src="img/logo.png" alt=""></a>
+    <!--- | --->
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="#"><button type="button" class="btn btn-outline-primary">Inicio</button>
+                    <span class="sr-only "></span></a>
+        </li>
+        <li class="nav-item ">
+          <a class="nav-link" href="#"><button type="button" class="btn btn-outline-success">¿Tienes una empresa?</button></a>
+        </li>
+        <li class="nav-item ">
+          <a class="nav-link" href="#"><button type="button" class="btn btn-outline-success">¿Eres Influencer?</button></a>
+        </li>
+        <li class="nav-item ">
+          <a class="nav-link" href="login.php"><button type="button" class="btn btn-primary">Iniciar Sesión</button></a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="image1 container-fluid">
+    <div class="image1-p1 col-sm-12">
+      <h1 class="text-center ">La plataforma de Marketing de Influencias más importante de México</h1>
+    </div>
+  </div>
+  <!-- PASOS PARA UTILIZAR EFICLÉ -->
+  <div class="steps container-fluid ">
+    <div class="row ">
+      <div class="card col-12 col-sm-4 col-md-4 " style=" ">
+        <img class="card-img-top img-fluid scrollflow -slide-down -opacity " src="img/network.png " alt="Card image cap ">
+        <div class="card-body ">
+          <h5 class="card-title "> Selecciona una red social</h5>
+          <p class="card-text ">Escoge la red social con la que deseas iniciar tu campaña de publicidad.</p>
+        </div>
+      </div>
+      <div class="card col-12 col-sm-4 col-md-4 " style=" ">
+        <img class="card-img-top img-fluid scrollflow -slide-down -opacity " src="img/customer.png " alt="Card image cap ">
+        <div class="card-body ">
+          <h5 class="card-title "> Selecciona un influencer</h5>
+          <p class="card-text ">Existen miles de líderes en esa red social que pueden hablar de tu marca o empresa.</p>
+        </div>
+      </div>
+      <div class="card col-12 col-sm-4 col-md-4 " style=" ">
+        <img class="card-img-top img-fluid scrollflow -slide-down -opacity " src="img/profits.png " alt="Card image cap ">
+        <div class="card-body ">
+          <h5 class="card-title "> Haz crecer tu empresa</h5>
+          <p class="card-text ">Tu marca o empresa será vista por miles de personas en todo México.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- cita -->
+  <div class="caja-cita container-fluid ">
+    <div class="row ">
+      <div class="quote col-md-12 ">
+        <i class="fas fa-quote-left "></i>
+      </div>
+      <div class="cita col-md-12 col-lg-12 ">
+        <blockquote class="blockquote text-center ">
+          <p class="mb-0 ">“Las empresas que entienden las redes sociales son las que dicen con su mensaje: te veo, te escucho y me importas” </p>
+          <footer class="blockquote-footer "><cite title="Source Title ">Trey Pennington</cite></footer>
+        </blockquote>
+      </div>
+    </div>
+  </div>
+
+  <div class="planes container-fluid ">
+    <div class="row ">
+      <div class="col-md-12 ">
+        <div class="title">
+          <h3>Planes</h3>
+        </div>
+        <div class="table-responsive ">
+          <table class="table table-borderless ">
+            <thead>
+              <tr>
+                <th scope="col "></th>
+                <th scope="col "><img src="img/presentacion-de-negocios.png " alt=" " class="img-fluid img-plan "> <br>Emprendedor</th>
+                <th scope="col "><img src="img/office-building.png " alt=" " class="img-fluid img-plan "><br>Empresarial</th>
+                <th scope="col "><img src="img/diamante.png " alt=" " class="img-fluid img-plan "><br>Premium</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th scope="row ">Cantidad de seguidores</th>
+                <td>Hasta 500K</td>
+                <td>Hasta 1M</td>
+                <td>Más de 1M</td>
+              </tr>
+              <tr>
+                <th scope="row ">Sistema de Estadísticas</th>
+                <td>Básico</td>
+                <td>Básico</td>
+                <td>Avanzado</td>
+              </tr>
+              <tr>
+                <th scope="row ">Edición de contenido multimedia</th>
+                <td>No incluido</td>
+                <td>No incluido</td>
+                <td>Eficlé Multimedios Plus</td>
+              </tr>
+              <tr>
+                <th scope="row ">Almacenamiento para multimedia</th>
+                <td>2 GB</td>
+                <td>5 GB</td>
+                <td>15 GB</td>
+              </tr>
+              <tr>
+                <th scope="row social-media-icons ">Redes Sociales</th>
+                <td>
+                  <i class="smedia-icon fab fa-facebook-square "></i>
+                  <i class="smedia-icon fab fa-twitter "></i>
+                  <i class="smedia-icon fab fa-instagram "></i>
+                  <i class="smedia-icon fab fa-google-plus "></i>
+                </td>
+
+                <td>
+                  <i class="smedia-icon fab fa-facebook-square "></i>
+                  <i class="smedia-icon fab fa-twitter "></i>
+                  <i class="smedia-icon fab fa-instagram "></i>
+                  <i class="smedia-icon fab fa-linkedin "></i>
+                  <i class="smedia-icon fab fa-google-plus "></i>
+                </td>
+                <td>
+                  <i class="smedia-icon fab fa-facebook-square "></i>
+                  <i class="smedia-icon fab fa-twitter "></i>
+                  <i class="smedia-icon fab fa-instagram "></i>
+                  <i class="smedia-icon fab fa-linkedin "></i>
+                  <i class="smedia-icon fab fa-youtube "></i>
+                  <i class="smedia-icon fab fa-google-plus "></i>
+                  <i class="smedia-icon fab fa-pinterest "></i>
+                </td>
+              </tr>
+
+              <tr>
+                <th scope="row "></th>
+                <td>$749 / Mes</td>
+                <td>$1,499 / Mes</td>
+                <td>$2,899 / Mes</td>
+              </tr>
+              <tr>
+
+                <th scope="row "></th>
+                <td><button type="button" class="btn btn-light ">Contratar</button></td>
+                <td><button type="button" class="btn btn-light ">Contratar</button></td>
+                <td><button type="button" class="btn btn-light ">Contratar</button></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script type="text/javascript" src="js/jquery.js"></script>
+  <script type="text/javascript" src="js/bootstrap.js"></script>
+  <script type="text/javascript" src="js/eskju.jquery.scrollflow.js"></script>
+</body>
+
+</html>

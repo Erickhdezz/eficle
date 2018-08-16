@@ -1,0 +1,49 @@
+body {
+    margin-top: 80px !important;
+}
+
+.perfil,
+.multimedia,
+.recomendado,
+.control {
+    width: 50vh;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.card-img-top {
+    margin-right: auto;
+    margin-left: auto;
+    transition: 0.3s;
+}
+
+.card-img-top:hover {
+    transition: 0.3s;
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.card-body p {
+    font-size: 0.9rem;
+}
+
+
+.img-media{
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+.img-media img {
+    max-width: 25vh;
+    cursor: pointer;
+    transition: 0.3s;
+    margin-right: 5px;
+    margin-left: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+}
+
+.img-media img:hover {
+    transition: 0.3s;
+    transform: scale(1.1);
+}
